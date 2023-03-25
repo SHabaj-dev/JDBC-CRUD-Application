@@ -59,6 +59,7 @@ public class MainClass {
                     System.exit(0);
                 }
             }
+            sc.close();
         }
 
     }

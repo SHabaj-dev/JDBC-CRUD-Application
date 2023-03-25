@@ -1,4 +1,4 @@
- //JDBC Connections.
+ //JDBC Connections Rules.
  
  Package -> java.sql.*;
  Divers -> com.mysql.jdbc.Drivers (Not in system by default neet to download the jar file from the internet.

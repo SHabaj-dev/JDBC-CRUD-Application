@@ -1,3 +1,4 @@
+
 ## Simple CRUD App in Java using JDBC
 This is a simple CRUD (Create, Read, Update, Delete) application built in Java using JDBC (Java Database Connectivity) to interact with a MySQL database.
 
@@ -43,3 +44,4 @@ Select the option you want to perform by entering its corresponding number.
 - If you select option 4, you will be prompted to enter the ID of the student whose data you want to delete. The application will then delete that student's data from the student table.
 
 - If you select option 5, the application will exit.
+
